@@ -4,6 +4,8 @@
 
 .App-logo {
   height: 40vmin;
+  user-select: none;
+  -webkit-user-drag: none;
 }
 
 .App-header {
