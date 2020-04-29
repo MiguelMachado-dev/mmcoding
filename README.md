@@ -1,6 +1,10 @@
 # Powered by Vercel
 
-[![Visit Vercel!](./powered-by-vercel.svg)](https://vercel.com/?utm_source=miguelmachado "Visit Vercel!")
+<p align="left">
+  <a aria-label="Vercel logo" href="https://vercel.com/?utm_source=miguelmachado">
+    <img src="./powered-by-vercel.svg">
+  </a>
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
