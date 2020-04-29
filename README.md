@@ -1,6 +1,6 @@
 # Powered by Vercel
 
-![https://vercel.com/?utm_source=miguelmachado](./powered-by-vercel.svg)
+[![Visit Vercel!](./powered-by-vercel.svg)](https://vercel.com/?utm_source=miguelmachado "Visit Vercel!")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
