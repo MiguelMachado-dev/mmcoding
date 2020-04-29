@@ -1,3 +1,7 @@
+# Powered by Vercel
+
+![https://vercel.com/?utm_source=miguelmachado](./powered-by-vercel.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
